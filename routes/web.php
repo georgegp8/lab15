@@ -9,3 +9,5 @@ Route::get('/', function () {
 
 Route::get('/productos', [ProductoController::class, 'index']);
 // Cambio hecho por rama1
+// Cambio hecho por rama2
+
